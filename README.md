@@ -13,10 +13,10 @@ This interactive Shiny application demonstrates the mathematical equivalence bet
 
 ## Features
 
-### 1. Comparing t-test and ANOVA visualisation
-### 2. t² = F Visualization
-### 3. Comparing the Math
-### 4. Comparing the Distributions
+- Comparing t-test and ANOVA visualisation
+- t² = F Visualization
+- Comparing the Math
+- Comparing the Distributions
 
 ## Key Insights
 
