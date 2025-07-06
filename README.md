@@ -18,25 +18,6 @@ This interactive Shiny application demonstrates the mathematical equivalence bet
 - Comparing the Math
 - Comparing the Distributions
 
-## Key Insights
-
-### Mathematical Relationship
-- **t² = F**: The t-statistic squared equals the F-statistic
-- **Same p-values**: Both tests give identical p-values
-- **Shared assumptions**: Both require normality, independence, and equal variances
-- **Pooled variance**: Both use the same variance estimate
-
-### Conceptual Differences
-- **T-test perspective**: "How different are the group means?"
-- **ANOVA perspective**: "How much variance is explained by group membership?"
-- **Visual focus**: T-test emphasizes the difference arrow, ANOVA emphasizes variance components
-
-### Practical Implications
-- **Statistical power**: Both tests have identical power
-- **Effect size**: Both are equally sensitive to the same effects
-- **Interpretation**: Choose based on your research question and audience
-- **Extension**: ANOVA generalizes to more than two groups
-
 ## License
 
 This app is available for education purposes and can be used and modified by everyone.
